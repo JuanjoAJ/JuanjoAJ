@@ -14,18 +14,18 @@ After several years working in a completely different sector, I decided to redir
 
 [Bingo: ](https://github.com/JuanjoAJ/Bingo)Bingo exercise made with Java.
 <br>
-[Bootstrap: ](!https://github.com/JuanjoAJ/Lenguaje-de-Marcas/tree/main/T2-HTML/03%20-Bootstrap/05%20-%20Proyecto%20Bootstrap)Portfolio template made with html, css and bootstrap
+[Bootstrap: ](https://github.com/JuanjoAJ/Lenguaje-de-Marcas/tree/main/T2-HTML/03%20-Bootstrap/05%20-%20Proyecto%20Bootstrap)Portfolio template made with html, css and bootstrap
 <br>
-[Tienda: ](!https://github.com/JuanjoAJ/Lenguaje-de-Marcas/tree/main/T0%20-%20Evaluables/03-%20Tercera%20Evaluable)One of the evaluable exercices of the markup language course HTML, CSS, JS, Bootstrap.
+[Tienda: ](https://github.com/JuanjoAJ/Lenguaje-de-Marcas/tree/main/T0%20-%20Evaluables/03-%20Tercera%20Evaluable)One of the evaluable exercices of the markup language course HTML, CSS, JS, Bootstrap.
 <br>
 [Competición: ](https://github.com/JuanjoAJ/PROGRAMACION/tree/44ae2a6e402d94d4bb5df3569d26883d2cf63e73/Ejercicios%20Evaluables/SegundoTrimestre%20-%20COMPETICI%C3%93N)One of the evaluable exercises of the programming course made with Java and Java Swing.
 <br>
-[Biblioteca: ](!https://github.com/JuanjoAJ/PROGRAMACION/tree/44ae2a6e402d94d4bb5df3569d26883d2cf63e73/Ejercicios%20Evaluables/TercerTrimestre%20-%20BIBLIOTECA)Another of the evaluable exercises of the programming course made with Java.
+[Biblioteca: ](https://github.com/JuanjoAJ/PROGRAMACION/tree/44ae2a6e402d94d4bb5df3569d26883d2cf63e73/Ejercicios%20Evaluables/TercerTrimestre%20-%20BIBLIOTECA)Another of the evaluable exercises of the programming course made with Java.
 
 
 ### This is my path of learning during the year at university:
-#### [Programación](!https://github.com/JuanjoAJ/PROGRAMACION): This repo contains the path of the programming subject of the first year of Multiplatform Application Development in Spanish.
-#### [Lenguaje de Marcas](!https://github.com/JuanjoAJ/Lenguaje-de-Marcas): This repo contains the path of the markup language subject of the first year of Multiplatform Application Development in Spanish.
+#### [Programación](https://github.com/JuanjoAJ/PROGRAMACION): This repo contains the path of the programming subject of the first year of Multiplatform Application Development in Spanish.
+#### [Lenguaje de Marcas](https://github.com/JuanjoAJ/Lenguaje-de-Marcas): This repo contains the path of the markup language subject of the first year of Multiplatform Application Development in Spanish.
 ---
 ## 📊My GitHub Stats:
 
