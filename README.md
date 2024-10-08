@@ -31,7 +31,7 @@ After several years working in a completely different sector, I decided to redir
 
 ![](https://github-readme-stats.vercel.app/api?username=JuanjoAJ&theme=default&include_all_commits=true&count_private=true&cache_seconds=180)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanjoAJ&theme=default&hide_border=false&cache_seconds=180)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoAJ&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoAJ&layout=compact)
 
 ## 🛠️ Tech Stack:
 ### Languages
