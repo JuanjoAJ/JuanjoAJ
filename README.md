@@ -4,13 +4,16 @@ After several years working in a completely different sector, I decided to redir
  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="60" height="60" /><br>
 
 ### Currently
-🌳 Full-stack developer, recently graduated in Multiplatform Application Development from Universidad Europea de Madrid.🌱 Always learning, always building 🌱
+🌳 Full-stack developer, recently graduated in Multiplatform Application Development from Universidad Europea de Madrid.
+🌱 Always learning, always building 🌱
 📖 I’ve got an 'Project Management Portfolio' and 'Agile and Scrum' certification
 
 ---
 
 ## 💻 My projects
 ### Check out my repos:
+
+
 
 [Bingo: ](https://github.com/JuanjoAJ/Bingo)Bingo exercise made with Java.
 <br>
@@ -23,9 +26,12 @@ After several years working in a completely different sector, I decided to redir
 [Biblioteca: ](https://github.com/JuanjoAJ/BIBLIOTECA)Another of the evaluable exercises of the programming course made with Java.
 
 
-### This is my path of learning during the year at university:
+### This is my learning path through some subjects of the Multiplatform Application Development program:
 #### [Programación](https://github.com/JuanjoAJ/PROGRAMACION): This repo contains the path of the programming subject of the first year of Multiplatform Application Development in Spanish.
 #### [Lenguaje de Marcas](https://github.com/JuanjoAJ/Lenguaje-de-Marcas): This repo contains the path of the markup language subject of the first year of Multiplatform Application Development in Spanish.
+#### [Acceso de Datos](https://github.com/JuanjoAJ/AccesoDatos): This repo contains the path of the data access subject of the second year of Multiplatform Application Development in Spanish.
+#### [PSP](https://github.com/JuanjoAJ/PSP): This repo contains the path of the programming services and processes subject of the second year of Multiplatform Application Development in Spanish.
+#### [PMDM](https://github.com/JuanjoAJ/PMDM): This repo contains the path of the multimedia and mobile devices programming subject of the second year of Multiplatform Application Development in Spanish.
 ---
 ## 📊My GitHub Stats:
 
