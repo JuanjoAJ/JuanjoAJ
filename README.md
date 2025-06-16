@@ -17,11 +17,11 @@ After several years working in a completely different sector, I decided to redir
 
 
 <br>
-[Shopping Exercise: ](https://github.com/JuanjoAJ/shopExercise) A Java and JavaFX store app connected to a MySQL database, with API-based products, dynamic stock, real email confirmation, and encrypted user passwords.
+![Shopping Exercise: ](https://github.com/JuanjoAJ/shopExercise) A Java and JavaFX store app connected to a MySQL database, with API-based products, dynamic stock, real email confirmation, and encrypted user passwords.
 <br>
-[League Manager](https://github.com/JuanjoAJ/GestionLigasMovil) An Android app built with Kotlin that connects to Firebase to manage sports leagues and lets users save their favorite teams.
+![League Manager](https://github.com/JuanjoAJ/GestionLigasMovil) An Android app built with Kotlin that connects to Firebase to manage sports leagues and lets users save their favorite teams.
 <br>
-[Competición: ](https://github.com/JuanjoAJ/COMPETICION)One of the evaluable exercises of the programming course made with Java and Java Swing.
+![Competición: ](https://github.com/JuanjoAJ/COMPETICION)One of the evaluable exercises of the programming course made with Java and Java Swing.
 <br>
 
 
