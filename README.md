@@ -14,16 +14,11 @@ After several years working in a completely different sector, I decided to redir
 ### Check out my repos:
 
 
-
-[Bingo: ](https://github.com/JuanjoAJ/Bingo)Bingo exercise made with Java.
-<br>
-[Bootstrap: ](https://github.com/JuanjoAJ/ProyectoBootstrap)Portfolio template made with html, css and bootstrap
-<br>
-[Tienda: ](https://github.com/JuanjoAJ/TiendaLM)One of the evaluable exercices of the markup language course HTML, CSS, JS, Bootstrap.
+[Shopping Exercise: ](https://github.com/JuanjoAJ/shopExercise) A Java and JavaFX store app connected to a MySQL database, with API-based products, dynamic stock, real email confirmation, and encrypted user passwords.
 <br>
 [Competición: ](https://github.com/JuanjoAJ/COMPETICION)One of the evaluable exercises of the programming course made with Java and Java Swing.
 <br>
-[Biblioteca: ](https://github.com/JuanjoAJ/BIBLIOTECA)Another of the evaluable exercises of the programming course made with Java.
+
 
 
 ### This is my learning path through some subjects of the Multiplatform Application Development program:
