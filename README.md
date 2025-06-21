@@ -16,7 +16,7 @@ After several years working in a completely different sector, I decided to redir
 ### Check out my repos:
 
 
-#### [TriviAPP:]([https://github.com/JuanjoAJ/shopExercise](https://github.com/JuanjoAJ/TriviAPP)) A multiplayer trivia game built with Unity and Photon, using Firebase for authentication and question storage
+#### [TriviAPP:](https://github.com/JuanjoAJ/TriviAPP) A multiplayer trivia game built with Unity and Photon, using Firebase for authentication and question storage
 
 #### [Shopping Exercise:](https://github.com/JuanjoAJ/shopExercise) A Java and JavaFX store app connected to a MySQL database, with API-based products, dynamic stock, real email confirmation, and encrypted user passwords.
 
